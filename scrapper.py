@@ -1,5 +1,8 @@
-from src.InstagramScrapper import InstagramScrapper
-from src.TwitterScrapper import TwitterScrapper
+#from src.InstagramScrapper import InstagramScrapper
+#from src.TwitterScrapper import TwitterScrapper
+
+from InstagramScrapper import InstagramScrapper
+from TwitterScrapper import TwitterScrapper
 
 if __name__ == '__main__':
 
